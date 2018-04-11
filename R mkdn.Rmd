@@ -1,7 +1,6 @@
 ---
 title: "NGS lecture 4 Written assignment"
 author: "Jack"
-date: "2018¦~4¤ë10¤é"
 output: html_document
 ---
 
